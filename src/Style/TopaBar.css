@@ -1,0 +1,10 @@
+.topBar{
+  background: #4A90E2;
+  height: 40px
+}
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-left: 30px;
+  padding-top: 0.5%;
+}
